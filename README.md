@@ -7,7 +7,7 @@ This application(Technically the  **Code**) is built by Me with the help of RStu
 ## Requirement
 - R Studio with R Language
 
-##How to Run
+## How to Run
 1. Clone the Repository to your Computer.
 2. Open the File **DP_Linear.Rproj** using RStudio.
 3. Select all the lines of code in the **RScript.R** file and run the Project.
